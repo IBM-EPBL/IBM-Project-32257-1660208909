@@ -2,7 +2,7 @@
 Natural Disasters Intensity Analysis and Classification using Artificial Intelligence
 
 
-## <h1 align="center">Natural Disasters Intensity Analysis and Classification using Artificial Intelligence <img src="https://miro.medium.com/max/1400/0*0vd4mwKDLcOy1wFp.jpg" width="30px"></h1>
+## <h1 align="center">Natural Disasters Intensity Analysis and Classification using Artificial Intelligence </h1>
 <h4 align="center">A Project for Predicting the Natural Disaster to save the human lives<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="20" height="20">
