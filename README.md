@@ -112,13 +112,11 @@ Once model analyses the video frames, the prediction is showcased on the UI and 
  ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"> Project Structure :
  ![image](https://user-images.githubusercontent.com/83300210/202619552-76f7ae18-08bc-487a-9711-7390c673b82e.png)
 
-Dataset folder contains the training and testing images for training our model.
+-Dataset folder contains the training and testing images for training our model.
 
-We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
+-We are building a Flask Application that needs  HTML pages stored in the templates folder and a python script app.py for serverside scripting
 
-we need the model which is saved and the saved model in this content is a disaster.h5
+-we need the model which is saved and the saved model in this content is a disaster.h5
 
-templates folder contains home.html,intro.html,upload.html pages.
+-templates folder contains home.html page.
 
-  
- Made with ❤ in India | Agni College Of Tech
